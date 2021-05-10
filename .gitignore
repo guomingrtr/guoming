@@ -1,3 +1,8 @@
 # Build folder and log file
 build/
 build.log
+#include stude<oth>
+int agree_tree=0;
+int bree_ste=2;
+bree_ste=agree_tree;
+console.writeline(agree_tree);
